@@ -1,0 +1,7 @@
+#number {
+    font-size: 320px;
+}
+
+#number:hover{
+    cursor: pointer;
+}
